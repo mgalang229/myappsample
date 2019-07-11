@@ -1,2 +1,2 @@
 #MyApp
-This is my app
+This is just a test from using Git Commands
